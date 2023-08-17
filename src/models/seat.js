@@ -10,25 +10,30 @@ module.exports = (sequelize) => {
         allowNull: false,
         defaultValue: DataTypes.UUIDV4,
       },
+      isBooked: {
+        type: DataTypes.BOOLEAN,
+        defaultValue: false,
+        allowNull: false,
+      },
       number: {
         type: DataTypes.STRING,
         allowNull: false,
-        validate: {
-          //Adding same seat number to theater Validation
-          async isUniqueForTheater(value) {
-            const existingSeat = await Seat.findOne({
-              where: {
-                theaterId: this.TheaterId,
-                number: value,
-              },
-            });
-            if (existingSeat) {
-              throw new Error(
-                `Seat number '${value}' already exists for this theater.`
-              );
-            }
-          },
-        },
+        // validate: {
+        //   //Adding same seat number to theater Validation
+        //   async isUniqueForTheater(value) {
+        //     const existingSeat = await Seat.findOne({
+        //       where: {
+        //         theaterId: this.TheaterId,
+        //         number: value,
+        //       },
+        //     });
+        //     if (existingSeat) {
+        //       throw new Error(
+        //         `Seat number '${value}' already exists for this theater.`
+        //       );
+        //     }
+        //   },
+        // },
       },
     },
     { tableName: "seat" }
