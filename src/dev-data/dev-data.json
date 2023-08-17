@@ -1,0 +1,201 @@
+[
+    {
+        "name": "Avatar",
+        "year": "2009",
+        "releaseDate": "18 Dec 2009",
+        "runtime": "162 min",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "director": "James Cameron",
+        "crew": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",
+        "description": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "language": [
+            "English",
+            "Spanish"
+        ],
+        "country": "USA, UK",
+        "rating": "7.9",
+        "format": [
+            "2d",
+            "3d",
+            "imax"
+        ]
+    },
+    {
+        "name": "Inception",
+        "year": "2010",
+        "releaseDate": "16 Jul 2010",
+        "runtime": "148 min",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "director": "Christopher Nolan",
+        "crew": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy",
+        "description": "A thief with the ability to enter people's dreams and steal their secrets is tasked with planting an idea into the mind of a CEO.",
+        "language": [
+            "English",
+            "Japanese",
+            "French"
+        ],
+        "country": "USA, UK",
+        "rating": "8.8",
+        "format": [
+            "2d",
+            "IMAX"
+        ]
+    },
+    {
+        "name": "Gully Boy",
+        "year": "2019",
+        "releaseDate": "14 Feb 2019",
+        "runtime": "153 min",
+        "genre": [
+            "Drama",
+            "Music"
+        ],
+        "director": "Zoya Akhtar",
+        "crew": "Ranveer Singh, Alia Bhatt, Siddhant Chaturvedi, Vijay Varma",
+        "description": "A coming-of-age story of an aspiring street rapper from the slums of Mumbai who sets out to achieve his dream of becoming a recognized artist.",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "rating": "8.2",
+        "format": [
+            "2d"
+        ]
+    },
+    {
+        "name": "Dangal",
+        "year": "2016",
+        "releaseDate": "23 Dec 2016",
+        "runtime": "161 min",
+        "genre": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "director": "Nitesh Tiwari",
+        "crew": "Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh, Sanya Malhotra",
+        "description": "The true story of Mahavir Singh Phogat, a former wrestler who trains his daughters Geeta and Babita to become world-class wrestlers against all odds.",
+        "language": [
+            "Hindi"
+        ],
+        "country": "India",
+        "rating": "8.4",
+        "format": [
+            "2d"
+        ]
+    },
+    {
+        "name": "The Dark Knight",
+        "year": "2008",
+        "releaseDate": "18 Jul 2008",
+        "runtime": "152 min",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "director": "Christopher Nolan",
+        "crew": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
+        "description": "When the Joker wreaks havoc and chaos on the people of Gotham City, Batman must confront one of his greatest psychological and physical tests to save the city.",
+        "language": [
+            "English"
+        ],
+        "country": "USA, UK",
+        "rating": "9.0",
+        "format": [
+            "2d",
+            "IMAX"
+        ]
+    },
+    {
+        "name": "KGF: Chapter 1",
+        "year": "2018",
+        "releaseDate": "21 Dec 2018",
+        "runtime": "155 min",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "director": "Prashanth Neel",
+        "crew": "Yash, Srinidhi Shetty, Ramachandra Raju, Archana Jois",
+        "description": "Set in the Kolar Gold Fields of Karnataka, India, the movie follows the rise of a young orphan, Rocky, who becomes a powerful underworld figure.",
+        "language": [
+            "Kannada"
+        ],
+        "country": "India",
+        "rating": "8.2",
+        "format": [
+            "2d"
+        ]
+    },
+    {
+        "name": "Raajakumara",
+        "year": "2017",
+        "releaseDate": "24 Mar 2017",
+        "runtime": "148 min",
+        "genre": [
+            "Drama",
+            "Action"
+        ],
+        "director": "Santhosh Ananddram",
+        "crew": "Puneeth Rajkumar, Priya Anand, Ananth Nag, Sarath Kumar",
+        "description": "The movie follows Siddharth, a young man who returns to his village and becomes involved in local politics to fulfill his father's dream.",
+        "language": [
+            "Kannada"
+        ],
+        "country": "India",
+        "rating": "8.6",
+        "format": [
+            "2D"
+        ]
+    },
+    {
+        "name": "Lucia",
+        "year": "2013",
+        "releaseDate": "6 Sep 2013",
+        "runtime": "136 min",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "director": "Pawan Kumar",
+        "crew": "Sathish Ninasam, Sruthi Hariharan, Achyuth Kumar, Sanjay",
+        "description": "The movie blurs the line between dreams and reality, following the story of Nikki, a man who starts experiencing two different realities after taking a new pill.",
+        "language": [
+            "Kannada"
+        ],
+        "country": "India",
+        "rating": "8.1",
+        "format": [
+            "2D"
+        ]
+    },
+    {
+        "name": "The Shawshank Redemption",
+        "year": "1994",
+        "releaseDate": "23 Sep 1994",
+        "runtime": "142 min",
+        "genre": [
+            "Drama"
+        ],
+        "director": "Frank Darabont",
+        "cast": "Tim Robbins, Morgan Freeman, Bob Gunton",
+        "description": "The Shawshank Redemption follows the story of a banker who is sentenced to life in Shawshank State Penitentiary and forms a deep bond with another inmate while seeking his own redemption.",
+        "language": [
+            "English"
+        ],
+        "country": "United States",
+        "rating": "9.3",
+        "format": [
+            "2D"
+        ]
+    }
+]
